@@ -10,7 +10,7 @@ def enviar_email():
         corpo_email = f.read()
 
     msg = email.message.Message()
-    msg['Subject'] = "Nosso Mêsversário!"
+    msg['Subject'] = "Teste Deploy actions!"
     msg['From'] = "thaliaguedes1199@gmail.com"
     msg['To'] = "thaliaguedes1199@gmail.com"
     password = "tvwnvtpyskdfysul"
