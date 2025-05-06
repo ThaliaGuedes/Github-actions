@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:/Users/thali/Documents/Lambda-teste./.venv/Scripts/python.exe",
+    "python.autoComplete.extraPaths": [
+        "./"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false
+}
